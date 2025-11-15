@@ -1,0 +1,15 @@
+#required dependencies to install
+streamlit
+streamlit-webrtc
+numpy
+mediapipe
+cv2
+os
+tensorflow.keras.utils
+av
+urlib.parse
+time
+json 
+maths
+base64
+streamlit_lottie
